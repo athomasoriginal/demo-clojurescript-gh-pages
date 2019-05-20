@@ -1,0 +1,5 @@
+.cpcache
+out
+
+# this will be your projects name
+demo-clojurescript-gh-pages
